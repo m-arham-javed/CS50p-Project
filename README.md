@@ -1,6 +1,4 @@
 # CS50P Todo API
-#### Video Demo:  <URL HERE>
-#### Description:
 
 ## Overview
 
